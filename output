@@ -1,0 +1,9 @@
+Initial Employee Details:
+Employee[name=Vikas, id=1, salary=70000.0]
+Employee[name=Rohit, id=2, salary=4000.0]
+
+Removng Employees
+
+Remaining Employees Details
+
+Employee[name=Vikas, id=1, salary=70000.0]
