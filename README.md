@@ -1,20 +1,40 @@
-# oops
+# Employee Payroll Management System (Java OOP Project)
 
-Project Title: Employee Payroll Management System (Java OOP Project)
-Description:
-Developed a console-based payroll system in Java using Object-Oriented Programming. The system handles both full-time and part-time employees. It calculates individual salaries, allows addition/removal of employees, and displays employee data using abstraction and polymorphism.
+A console‑based payroll management system implemented in Java using **Object‑Oriented Programming (OOP)** concepts such as abstraction, inheritance, polymorphism, and dynamic data handling.
 
-Key Features:
+---
 
-Abstract Employee class with FullTimeEmployee and PartTimeEmployee subclasses.
+## 🧠 Project Overview
 
-Uses ArrayList to manage employee records.
+This project simulates a simple payroll system that manages different types of employees and calculates their salaries based on their specific employment type. It uses core Java and fundamental OOP principles.
 
-Dynamic salary calculation based on employment type.
+The system currently supports:
+- Adding and removing employees
+- Displaying employee details
+- Calculating salaries dynamically for full‑time and part‑time employees
 
-Implemented using core Java (no external libraries).
+---
 
-Technologies Used:
-Java, OOP, ArrayList, Inheritance, Abstraction, Polymorphism
+## 🚀 Features
+
+✔ Uses OOP concepts:  
+- **Abstraction** (abstract base class)  
+- **Inheritance** (derived employee classes)  
+- **Polymorphism** (dynamic method calls)  
+✔ Stores employee records using `ArrayList`  
+✔ Console‑based user interaction  
+✔ Separate logic for full‑time and part‑time salary computation
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Java       | Core language |
+| OOP Concepts | Structure & design |
+| ArrayList  | Dynamic collection |
+
+---
 
 
